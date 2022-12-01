@@ -1,0 +1,23 @@
+{
+    "name": "Ahmad Fauzi",
+    "short_name": "Ahmad Fauzi",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "My name is Ahmad Fauzi I'm software engineer specializing in building and designing exceptional digital experience. Currently, I'm focused on building accessible, human-centered product about mobile application.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
